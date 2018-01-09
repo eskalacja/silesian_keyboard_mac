@@ -8,7 +8,7 @@
 
 *******************************
 Date created: 2012 12 10
-Version: 0.1
+Version: 0.1.1
 
 ********** LICENSE *********
 This software is made by Szymon Nowicki with Ukulele app.
@@ -18,6 +18,7 @@ However, you CAN NOT sell it to anyone as a single product. You CAN sell it as a
 
 It would be nice if you send me an email with usage information. You'll find my contact details on my website. 
 
+I'd also like to encourage to support the project on https://github.com/eskalacja/silesian_keyboard_mac.
 *****************************
 What is it anyway?
 *****************************
@@ -40,4 +41,4 @@ Now, simply drag and drop the .bundle file there. OS should ask for your passwor
 
 Now you can just reboot (or logout -> login). After reboot you should see your new, Silesian keyboard layout on Prefferences -> Language options.
 
-If you need any help, feel free to contact me.
+If you need any help, feel free to contact me via e-mail or github.
