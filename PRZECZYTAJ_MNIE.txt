@@ -9,7 +9,7 @@ eskalacja.com
 
 *******************************
 Data utworzenia: 2012 12 10
-Wersja: 0.1
+Wersja: 0.1.1
 
 ********** LICENSE *********
 Oprogramowanie zostało stworzone przez Szymona Nowickiego z pomocą aplikacji Ukelele.
@@ -20,6 +20,8 @@ Niemniej, nie możesz sprzedać lub osiągnąć jakiegokolwiek dochodu z niniejs
 Możesz użyć tego oprogramowania w celach zarobkowych, tylko jeżeli będzie częścią całości.
 
 Będzie bardzo miło jeśli wyślesz mi wiadomość e-mailową jeśli uznasz, że moja praca jest dla ciebie przydatna (kontakt znajdziesz na stronie).
+
+Zachęcam również do udziału w rozwoju projektu na https://github.com/eskalacja/silesian_keyboard_mac
 
 *****************************
 Czym jest Silesian Keylayout?
@@ -37,4 +39,4 @@ Aby zainstalować niniejszy układ klawiatury, należy kliknąć w wole miejsce 
 
 Następnie skopiuj plik .bundle z paczki w której znajduje się niniejszy plik. System powinien zapytać cię o hasło (modyfikujesz folder systemowy). Jeśli kopiowanie zakończy się pomyślnie, zrestartuj komputer (lub wyloguj się i zaloguj), a następnie uaktywnij nowy układ klawiatury w "Preferencje -> język i lokalizacja".
 
-Jeśli potrzebujesz pomocy, chętnie ci jej udzielę za pomocą e-maila.
+Jeśli potrzebujesz pomocy, chętnie ci jej udzielę za pomocą e-maila lub w serwisie github.
